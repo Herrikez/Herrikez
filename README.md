@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herrikez
-- 👀 I’m interested in Architecture, Synthetic Biology and Economics.
-- 🌱 I’m currently learning Git.
+- 👀 I’m interested in Architecture, Data Science and Fermentation.
+- 🌱 I’m currently learning how to do a portfolio.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: I would rather prefer you didn't.
 
