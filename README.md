@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Herrikez
+- 👋 Hi, I’m Tiago
 - 👀 I’m interested in Architecture, Data Science and Fermentation.
 - 🌱 I’m currently doing cool projects to add to my portfolio.
 - 💞️ I’m looking to collaborate on anything interesting.
