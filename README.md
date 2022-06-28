@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herrikez
 - 👀 I’m interested in Architecture, Data Science and Fermentation.
-- 🌱 I’m currently doing cool projects to put on my portfolio.
+- 🌱 I’m currently doing cool projects to add to my portfolio.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: send me a message to tiagoafhenriques@gmail.com.
 
